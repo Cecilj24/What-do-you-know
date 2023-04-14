@@ -1,0 +1,23 @@
+.start-b, .quiz-sec{
+    margin: 0;
+  position: absolute;
+  left: 50%;
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+.quiz-sec{
+    margin: 0;
+  position: absolute;
+  left: 40%;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.quiz-sec {
+  
+  
+}
